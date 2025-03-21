@@ -1,0 +1,31 @@
+@import url('../css/reset.css');
+@import url('../fonts/font.css');
+@import url('../css/color.css'); 
+
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.container-full{
+    width: 100%;
+}
+/* TOP header */
+.top-header {  
+    display: flex;
+    align-items: stretch;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.top-header p{
+   font-size: 14px;
+   text-align: center;
+   flex-grow: 8;
+} 
+
+.top-header .language{
+    flex-grow: 1;
+}

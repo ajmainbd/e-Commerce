@@ -1,0 +1,68 @@
+/* Green Color Shades */
+.green-50 { color: #84FF2F; }
+.green-100 { color: #6EFF12; }
+.green-200 { color: #4DFF2A; }
+.green-300 { color: #38FF17; }
+.green-400 { color: #1EFF06; }
+.green-500 { color: #1AFF00; }
+
+/* Emerald Color Shades */
+.emerald-50 { color: #64FF22; }
+.emerald-100 { color: #52FF3B; }
+.emerald-200 { color: #33FF4C; }
+.emerald-300 { color: #1AFF30; }
+.emerald-400 { color: #00F61C; }
+.emerald-500 { color: #00F11A; }
+
+/* Cyan Color Shades */
+.cyan-50 { color: #00D8FF; }
+.cyan-100 { color: #00B2F9; }
+.cyan-200 { color: #0090F4; }
+.cyan-300 { color: #0080C7; }
+.cyan-400 { color: #0069A7; }
+.cyan-500 { color: #006099; }
+
+/* Sky Color Shades */
+.sky-50 { color: #A4D7FF; }
+.sky-100 { color: #7ACDFF; }
+.sky-200 { color: #71A6FF; }
+.sky-300 { color: #549CFF; }
+.sky-400 { color: #3E89FF; }
+.sky-500 { color: #3678FF; }
+
+/* Purple Color Shades */
+.purple-50 { color: #D67FFF; }
+.purple-100 { color: #9E4DFF; }
+.purple-200 { color: #7A2DFF; }
+.purple-300 { color: #651FFF; }
+.purple-400 { color: #4F14FF; }
+.purple-500 { color: #4400FF; }
+
+/* Pink Color Shades */
+.pink-50 { color: #FF81B9; }
+.pink-100 { color: #FF3D83; }
+.pink-200 { color: #FF3165; }
+.pink-300 { color: #FF2752; }
+.pink-400 { color: #FF1E44; }
+.pink-500 { color: #FF0F2E; }
+
+/* Blue Color Shades */
+.blue-50 { color: #84C6FF; }
+.blue-100 { color: #4C9AFF; }
+.blue-200 { color: #2687F7; }
+.blue-300 { color: #1070C9; }
+.blue-400 { color: #0859A0; }
+.blue-500 { color: #004C79; }
+
+/* Red Color Shades */
+.red-50 { color: #FFDDD5; }
+.red-100 { color: #F5A6A0; }
+.red-200 { color: #F76F62; }
+.red-300 { color: #F74C3F; }
+.red-400 { color: #F72E1D; }
+.red-500 { color: #F71912; }
+
+.text-black{ color: black;}
+.text-white{ color: white;}
+
+.bg-black { background: black;}

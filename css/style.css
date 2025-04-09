@@ -249,3 +249,85 @@ body{
 .arrival-section p{
     align-self: center;
 }
+.new-arrival{
+    display:flex;
+    height: 768px;
+}
+.playstation img{
+    height: 600px;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+      color: rgb(125, 10, 10);
+}
+.women-collection img{
+    height: 284px;
+    width: 570px;
+}
+.gucci{
+    display: flex;
+    padding: 20px;
+}
+.speakers img{
+    height: 284px;
+    align-items: center;
+    justify-content: center;
+}
+.perfume img{
+    height: 284px;
+    align-items: center;
+    justify-content: center;
+}
+.customer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 161px;
+}
+.free{
+    width:249px;
+    height:161px;
+    text-align: center;
+}
+.free p{
+    text-align: center;
+    font-size: 10px;
+    padding:10px ;
+}
+.footer{
+        padding-bottom: 60px;
+        padding-top: 60px;
+        display: flex;
+}
+.exclusive p{
+   color:white ;
+   padding: 10px;
+}
+.support p{
+    color:white ;
+   padding: 10px;
+}
+.acc p{
+    color:white ;
+    padding: 10px;
+}
+.quick p{
+    color:white ;
+    padding: 10px;
+}
+.download p{
+    color:white ;
+    padding: 10px;
+}
+
+.border{
+    border-bottom:black 2px solid ;
+}
+.account{
+    display: flex;
+    padding-top: 50px;
+    width: 1305px;
+    height: 781px;
+}

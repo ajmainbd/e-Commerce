@@ -17,6 +17,11 @@
 .pt-2 { padding-top: 16px }
 .pt-3 { padding-top: 24px }
 .pt-4 { padding-top: 30px }
+.pt-5 { padding-top: 20px}
+.pt-6 { padding-top: 45px}
+.p-1{ padding: 100px;}
+.p-0{padding:15px;}
+
 
 .py-1 { padding: 16px 0;}
 .pr-1{padding-right: 10px;}
@@ -25,3 +30,9 @@
 .pb-5{ padding-bottom: 20px;}
 .mb-6{ margin-bottom: 50px;}
 .mt-7{margin-top: 30px;}
+.ml-8{margin-left: 100px;}
+.ml-9{margin-left: 50px;}
+.ml-10{margin-left: 100px;}
+.ml-11{margin-left: 170px;}
+.mt-12{margin-top:50px;}
+.ml-13{margin-left: 60px;}

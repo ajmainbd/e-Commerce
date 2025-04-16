@@ -25,7 +25,6 @@ body{
    text-align: center;
    flex-grow: 8;
 } 
-
 .top-header .language{
     flex-grow: 1;
 }
@@ -305,9 +304,14 @@ body{
    color:white ;
    padding: 10px;
 }
+
 .support p{
     color:white ;
    padding: 10px;
+}
+.acc ul{
+    color: white;
+    line-height: 240%;
 }
 .acc p{
     color:white ;
@@ -321,13 +325,110 @@ body{
     color:white ;
     padding: 10px;
 }
-
+.download ul{
+    color: white; 
+    line-height: 240%;
+}
 .border{
-    border-bottom:black 2px solid ;
+    border-bottom:#9b9b9b 1px solid ;
 }
 .account{
     display: flex;
     padding-top: 50px;
-    width: 1305px;
-    height: 781px;
+    /* width: 1305px;
+    height: 781px; */
+}
+.details{
+    /* text-align: center; */
+}
+.input{
+    /* text-align: left; */
+}
+.input input{
+    /* background: #f1f1f1;
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none; */
+}
+
+.create-account{
+    width: 370px;
+    padding-left: 100px;
+}
+.account-input div {
+    margin-bottom: 20px;
+
+}
+.account-input input{ 
+    padding: 0px;
+    width: 100%;
+    background: #e5e5e5;
+    border: none;
+    padding: 10px 0;
+    text-indent: 10px;
+} 
+.submit-button button{ 
+    width: 100%;
+} 
+.signup{
+    border: 2px solid rgb(205, 205, 205);
+    padding: 8px;
+}
+.signup img{
+    width:14px;
+}
+.already{
+    text-align: center;
+    text-decoration: underline;
+}
+.vl-innertext{
+    text-align: center;
+}
+.fashion{
+    display: flex;
+}
+.woman-fashion ul li{
+    padding: 10px;
+}
+.border1{
+    border-right:1px solid #9b9b9b;
+    padding: 30px;
+    margin-bottom: 2px;
+    margin-top: -50px;
+}
+.log-in{
+    width: 370px;
+    padding-left: 100px;
+}
+.forget{
+   color: #DB4444;
+    padding: 78px;
+}
+.Wishlist{
+    display: flex;
+}
+.title6{
+    flex-grow: 2;
+}
+.title6 p{
+    font-size: 20px;
+}
+.move-all p{
+    border-style: solid;
+  border-width: thin;
+  padding: 15px;
+}
+.product{
+    display: grid;
+    grid-template-columns: 270px 270px 270px 270px;
+    column-gap: 10px;
+}
+.foryou-section{
+    display: flex;
+   
+}
+.foryou-section p{
+    align-items: center;
 }

@@ -432,3 +432,30 @@ body{
 .foryou-section p{
     align-items: center;
 }
+.home{
+    padding: 60px;
+    font-size: 14px;
+}
+.product4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.notfound{
+    text-align: center;
+    font-size: 100px;
+}
+.error{
+     text-align: center;
+    font-size: 13px;
+}
+.ourstory{
+    display: flex;
+      text-align: center;
+
+    justify-content: space-around;
+}
+.story{
+    font-size: 50px;
+}

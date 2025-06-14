@@ -1,6 +1,6 @@
 @import url('../css/reset.css');
 @import url('../fonts/font.css');
-@import url('../css/color.css'); 
+@import url('../css/color.css');  
 @import url('../css/utils.css');
 
 body{
@@ -438,8 +438,9 @@ body{
 }
 .product4{
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     text-align: center;
+
 
 }
 .notfound{
@@ -458,4 +459,78 @@ body{
 }
 .story{
     font-size: 50px;
+}
+.story-items{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    column-gap: 50px;
+    text-align: center;
+    padding: 50px 30px;
+    font-size: 16px;
+    padding-left: 250px;
+}
+.story-items .border-all:hover{
+    background-color: #DB4444;
+}
+.intro{
+    display: flex;
+  justify-content: center;
+  column-gap: 20px;
+    padding: 50px 30px;
+}
+.person1{
+    height: 435px;
+    width: 350px;
+}
+.person1 img{
+    margin: 0 auto;
+    display: flex;
+    padding-top: 36px;
+}
+.bill{
+    padding-left: 50px;
+    font-size: 35px;
+}
+.detail{
+    display: flex;
+    padding: 50px;
+     justify-content: space-between;
+}
+.info{
+    font-size: 14px;
+    color: #b1b1b1;
+    width: 470px;
+    height: 50px;
+}
+.info input{
+    width: 100%;
+    background-color: #e5e5e5;
+    border: none;
+    padding: 10px 0;
+    text-indent: 10px;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+    margin: 14px;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+p.ridge {
+    border: #000000 1px solid;
+    padding: 12px;
+    padding-left: 100px;
+    border-radius: 5px;
+}
+.home2{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    font-size: 14px;
 }

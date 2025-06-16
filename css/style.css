@@ -534,3 +534,40 @@ p.ridge {
     padding: 60px;
     font-size: 14px;
 }
+.Account3{
+    display: flex;
+        justify-content: space-between;
+}
+.manage{
+    padding-left: 60px;
+}
+.edit{
+        padding-inline-end: 620px;
+}
+.name2{
+      display: grid;
+  grid-template-columns: auto auto ;
+  gap: 50px;
+  padding: 30px;
+}
+.name2 input{
+    width: 100%;
+    background-color: #e5e5e5;
+    border: none;
+    padding: 10px 10PX;
+    text-indent: 10px;
+}
+.A{
+    display: flex;
+        justify-content: flex-end;
+    gap: 40px
+}
+.send{
+    display: flex;
+    padding: 60px;
+}
+.call h5{
+    float: right;
+    padding-right: 0px;
+    font-size: 16px;
+}

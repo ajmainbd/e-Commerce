@@ -57,8 +57,8 @@ body{
 }
 
 .retangle{
-    height: 30px;
-    width: 16px;
+    height: 45px;
+    width: 20px;
 }
 
 .today-section p{
@@ -570,4 +570,29 @@ p.ridge {
     float: right;
     padding-right: 0px;
     font-size: 16px;
+}
+.name3{
+      display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 50px;
+  padding: 50px;
+}
+.name3 input{
+    width: 100%;
+    background-color: #e5e5e5;
+    border: none;
+    padding: 10px 10PX;
+    text-indent: 10px;
+}
+.message {
+     background-color: lightgreen;
+  inline-size: 40%;
+    padding: 100px 90px;
+}
+
+.Havic{
+    display: flex;
+}
+.game{
+    display: grid;
 }
